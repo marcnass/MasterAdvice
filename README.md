@@ -1,4 +1,4 @@
-# MASTER STUDENT 
+# Marc Nassif 
 
 1. [My Study Plan](#StudyPlan)
 2. [My Courses](#Courses)
@@ -10,7 +10,7 @@
 4. [My Internships](#Internships)
 5. [Other Activities](#Other)
 
-## Study Plan for MASTER <a name="StudyPlan"></a>
+## Study Plan for Robotics <a name="StudyPlan"></a>
 The Robotics Master's has 120 credits, including 2 (or 3) 10-credit Semester Projects, an uncredited internship and a 30-credit Master's Project (which can be done in industry also).
 
 My plan upto present
