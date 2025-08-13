@@ -17,7 +17,7 @@ My plan upto present
 - MA1: 33 credits
 - MA2: 28 credits, incl. Semester Project
 - MA3: 24 credits, incl. Semester Project (lighter than needed)
-- MA4: Internship + TBD number of credits
+- MA4: Internship + 7 credits (2 overboard, had to get special approval from the section)
 
 ## My Courses <a name="Courses"></a>
 My main interests are in Image Processing and Embedded Systems!
@@ -43,7 +43,9 @@ My main interests are in Image Processing and Embedded Systems!
 | Convex Optimization | 5       | Fair    | Medium       | The important part of the course is the first half, including a full recap of convexity and duality theory. Not tough as a math course, but it's a math course alright! Two small projects during the semester give you some easy points, and the midterm isn't bad. If you take this before MPC, what's hard for other students will be very basic for you! | If you want to do some math!  |
 | Embedded System Design | 6       | High    | Tough    | Want to program an FPGA-CPU and work on hyper-optimizing an application? This is the course. The Prof. expects you to know Verilog when coming in, and the labs are NOT EASY - the Project is perfectly fair however. This course was first given in 2024, so it might change still, but you will learn SO MUCH by taking this, if you love lower-than-low level programming. | Only if you like low-level  |
 | Image Analysis and Pattern Recognition | 4       | Fair    | Easy    | Probably the most fun course I've taken at EPFL. Funny and charismatic prof with a very easy exam. The Labs are not hard to do, but the project is not easy, and will take up some valuable W12-W13 time to finish. You leave this course having learned a lot about classical Image Analysis methods, and you'll need to do some ML for the final project!         | YES  |
+| Lab In Signal and Image Processing | 4       | Fair    | Easy    | Sister course to IAPR, a Lab for EL students, that the section approved for me to take as an Option. Each lab took about 6-8 hours of work for me, and about the same for my lab partner, so the workload is fair. Labs are a good bit applied, quite like the labs for the IAPR course, but it does get old quite fast. It's low stakes enough that I'd definitely recommend taking this, and the final assignement with Machine Learning is a good bit of fun. Unfortunately, grading feedback wasn't the most transparent, but getting a good grade wasn't hard, at least :)  | YES  |
 | Image Processing I | 3       | Light    | Easy    | Basically Signals and Systems III - with all their pros and cons. Very easy to follow remotely, and the labs are easy. I found this very interesting, but it tends to stay theoretical in material         | YES  |
+| Image Processing II | 3       | Light    | Moderate    | Definitely harder than Image Processing I. Very easy to follow along remotely (did this during my internship, in Paris), with the labs being doable remotely (a lab deliverable for Week 2's Friday kinda sucked tho). It's more applied, but it's probably better to do some kind of Convex Optimisation before doing this, as a few of those concepts are glossed over a little bit in the course.       | YES  |
 | Machine Learning Programming | 2       | High    | BS    | The assignements involve you programming the algorithms behind each method taught in the Applied Machine Learning course, in MATLAB. You don't really learn much, but it helps with AML. It's very tedious, and the exam is BS: 3 super short questions to solve, accounting for 25% of the grade. Don't take this course if you want to actually apply ML knowledge - or don't take it at all.         | NO  |
 | Space Mission Design and Operations | 2       | Light    | Easy       | Needed 2 credits so I randomly took this course. It's a lot of fun, very easy to follow, interesting material and the professor is very nice. You'll get a recap of orbital mechanics, and there's quite a bit of material involved, but nothing's hard. The oral exam is quite fair, but getting a 6 isn't guaranteed! | YES  |
 | System Programming for Systems-on-chip | 6       | Fair    | Tough    | Much the same as Embedded System Design: Low-level C programming course, oriented towards Embedded Systems. 3 Labs to hand in, and they're not always easy. The end of semester exam was fair. Overall very fun to work on some real bare-metal C programming.       | If you enjoy Low Level Prog  |
@@ -90,7 +92,13 @@ I'm not Swiss or European, and I landed an internship in France, so I had some p
 - You also still need to register on IS-Academia, but you need to update your status! If you don't plan on taking any courses during the internship, you pay much less for the semester. If you plan on taking courses during the internship, you'll need to get them validated, and pay the full enrollment!
 - I had to apply for the Visa myself, but I found the Consulate in Geneva much easier to deal with, much more flexible with issues and errors, and much faster at responding and delivering the visa, than ever in my experience at home.
 
-At time of writing, I haven't started yet, I'll definitely update this once the internship is done!
+
+### Internship Experience
+My internship had me working on Hardware Safety, a niche topic in overall ASIC design, but still meant doing digital design and verification, which meant I got to develop the rudimentary knowledge I had in those fields. I got to learn a bunch about working in digital design, and met a lot of cool people too! 
+
+Of course, it wasn't 100% sunshine and roses, but it was a lot of fun, very educational, and I ended up signing on for a Master Thesis in Industry with them for next semester!
+
+
 ## Other Activities <a name="Other"></a>
 Was at EPFL Xplore during my MA2-3, which was fun! But starting W9, I didn't really have the time to work as much as I should have. Beware the MA2 end of semester crunch, I guess!
 
