@@ -98,6 +98,8 @@ My internship had me working on Hardware Safety, a niche topic in overall ASIC d
 
 Of course, it wasn't 100% sunshine and roses, but it was a lot of fun, very educational, and I ended up signing on for a Master Thesis in Industry with them for next semester!
 
+It turns out though, knowing git and having good branching/interactive rebasing discipline is super useful - and a good way to be in your supervisor's good books! Being familiar with rudimentary Linux knowledge and bash scripting will help you out of most annoying bugs and repetitive tasks too, so work on that! I also tried learning Vim... didn't see much of a productivity uptick (but weeklies and time tracking did help, as sad as that sounds).
+
 
 ## Other Activities <a name="Other"></a>
 Was at EPFL Xplore during my MA2-3, which was fun! But starting W9, I didn't really have the time to work as much as I should have. Beware the MA2 end of semester crunch, I guess!
